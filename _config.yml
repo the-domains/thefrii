@@ -1,0 +1,28 @@
+name: TheFrii
+favicon: null
+layout_spectrum: 0.21294520515948534
+typography_spectrum: 0.2446722611784935
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7210336739663035
+  lightness: 0.3317205363418907
+  saturation: 0.5527680013328791
+  rhythmicContrast: 0.7653694394975901
+purpose: []
